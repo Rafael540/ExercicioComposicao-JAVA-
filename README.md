@@ -1,7 +1,8 @@
 # ExercicioComposicao-JAVA-
 Exercicio de composicação em JAVA.
 
-````classDiagram
+```mermaid
+classDiagram
     Order --> OrderItem : items
     Order --> Client : client
     OrderItem --> Product : product
@@ -35,4 +36,4 @@ Exercicio de composicação em JAVA.
         - name : String
         - price : Double
     }
-```
+``` info
