@@ -1,4 +1,4 @@
-# ExercicioComposicao-JAVA-
+# Exercicio de Composicao-JAVA-
 Exercicio de composicação em JAVA. Abaixo, segue o diagrama de classe o qual o exercício foi baseado.
 
 ##Enunciado
