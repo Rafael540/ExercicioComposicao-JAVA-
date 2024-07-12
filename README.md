@@ -36,4 +36,4 @@ classDiagram
         - name : String
         - price : Double
     }
-``` info
+```
